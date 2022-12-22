@@ -1,0 +1,9 @@
+.user {
+  background-color: rgb(182, 172, 172);
+}
+.user:hover {
+  background-color: aliceblue;
+}
+.user:active {
+  background-color: rgb(182, 172, 172);
+}
